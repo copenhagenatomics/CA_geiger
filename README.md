@@ -2,18 +2,15 @@
 geiger counter firmware
 
 This code is for the microcontroller of the Copenhagen Atomics open source geiger counter board. (including open hardware), which you can find here:
+https://oshwlab.com/flo_ca/geiger-counter-double
 
 Geiger counter for two Geiger Mueller tubes.
-
 
 MCU: Arduino Nano Every (ATMega4809)
 Tubes: GM M4011 Geiger Muller
 Output: sound, LED, USB (text over serial port)
 
-
 More info about different tubes here:
 https://sites.google.com/site/diygeigercounter/technical/gm-tubes-supported
 
-Hardware files here:
-https://oshwlab.com/project/publish/d99f7fa6bd9441238572f574ad277b4d
 
