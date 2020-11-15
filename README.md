@@ -13,3 +13,7 @@ Output: sound, LED, USB (text over serial port)
 
 More info about different tubes here:
 https://sites.google.com/site/diygeigercounter/technical/gm-tubes-supported
+
+Hardware files here:
+https://oshwlab.com/project/publish/d99f7fa6bd9441238572f574ad277b4d
+
